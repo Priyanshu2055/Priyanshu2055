@@ -1,9 +1,24 @@
-- 👋 Hi, I’m @Priyanshu2055
-- 👀 I’m interested in Front-end developer
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Repository
+# Hi there, I'am Priyanshu!
 
-<!---
-Priyanshu2055/Priyanshu2055 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+
+- 🎓 &nbsp; Studying Bachelor Of Computer Application.
+- 🌱 &nbsp; Learning more about JavaScript.
+- :smiling_imp: &nbsp; Currently I creating clone website.
+<br/>
+
+
+<h3> :closed_book: &nbsp; My Skills : </h3>
+
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<br />
+
+<a href="https://github.com/Priyanshu2055">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyanshu2055&theme=blue-green&show_icons=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu2055&theme=blue-green&layout=compact" />
+</a>
