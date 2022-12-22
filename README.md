@@ -18,7 +18,7 @@
 <br />
 
 <a href="https://github.com/Priyanshu2055">
-  <img height="180em" width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=Priyanshu2055&theme=blue-green&show_icons=true" />
+  <img  width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=Priyanshu2055&theme=blue-green&show_icons=true" />
   
-  <img height="180em" width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu2055&theme=blue-green&layout=compact" />
+  <img  width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu2055&theme=blue-green&layout=compact" />
 </a>
